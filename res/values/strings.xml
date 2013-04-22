@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">RockPaperScissors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="friend">Friend</string>
+    <string name="computer">Computer</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="i_will_select_my_move">I will Select My Move</string>
+    <string name="let_computer_select_my_move">Let Computer Select My Move</string>
+    <string name="title_activity_friend">FriendActivity</string>
+
+    <dimen name="dialog_friend_ok">50dp</dimen>
+
+    <string name="title_activity_computer">RockPaperScissors</string>
+    
+    <string name="menue_shake">Shake</string>
+    <string name="menue_self">Self</string>
+    <string name="score_computer">Computer</string>
+    <string name="score_you">You</string>
+
+</resources>

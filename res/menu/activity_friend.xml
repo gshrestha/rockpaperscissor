@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_self"
+        android:title="@string/menue_self"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/menu_shake"
+        android:title="@string/menue_shake"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/menu_computer"
+        android:title="Computer"
+        android:icon="@drawable/computer"
+        android:showAsAction="ifRoom"/>
+</menu>
